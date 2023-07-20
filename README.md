@@ -1,2 +1,2 @@
 # portfolio react
-https://sharkztech.github.io/portfolio/
+https://github.com/Stevo999/Portfolio.git
